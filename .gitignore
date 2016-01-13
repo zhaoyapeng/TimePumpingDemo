@@ -26,15 +26,9 @@ proguard/
 .classpath
 .project
 .settings/
-project.properties
-
-
-# .imi
-app.imi
-statesbiographyarabandroid.iml
 
 .idea/
-build.gradle
+
 /gradle
 
 
